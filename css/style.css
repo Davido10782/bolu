@@ -1,0 +1,86 @@
+body {
+background-color: #000;
+color: white;
+font-size: 50px;
+}
+
+p {
+ color: orange;
+}
+
+.bottom{
+  font-size: 50px;
+  color: blue;
+}
+
+h1 {
+  font-size: 70px;
+  color: red;
+}
+
+.lift{
+  font-size: 90;
+  color: gold;
+}
+
+.top-section{
+  background-color: yellow;
+}
+
+.bottom-section{
+  background-color: tomato;
+}
+
+span {
+  color: green;
+  font-size: 100px;
+  font-weight: bold;
+}
+
+
+/* the css box model */
+
+/* Margin: empty space around my element
+   paddling: a border /stroke / around my element
+   border:empty space WITH background around my element
+
+   All of these ADD on the top of the width and height
+    */
+
+
+
+
+
+
+a{
+  color: blueviolet;
+}
+a:hover{
+  color: yellow;
+}
+a :active{
+  color: aqua;
+}
+
+
+
+.red-box {
+  height: 500px;
+  width: 500px;
+  background: red;
+  float: lefts;
+}
+
+
+.blue-box {
+  height: 500px;
+  width: 500px;
+  background: blue;
+  float: right;
+}
+
+
+img{
+  float: left;
+}
+
